@@ -1,0 +1,7 @@
+{
+  "name": "Tarea_Calculadora",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
